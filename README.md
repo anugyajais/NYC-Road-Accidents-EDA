@@ -3,6 +3,10 @@
 ## Project Overview
 This project provides a comprehensive exploratory data analysis (EDA) of NYC road accidents from January 2021 to April 2023. By leveraging Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the project aims to uncover temporal patterns, spatial hotspots, and key contributing factors behind traffic collisions in New York City. The analysis is designed to derive actionable insights that can inform urban planning and road safety initiatives.
 
+## Link for downloading the dataset
+https://maven-datasets.s3.amazonaws.com/NYC+Traffic+Accidents/NYC_Collisions.zip
+
+
 ## Project Objectives
 1. **Monthly Accident Distribution Analysis:**  
    Assess the percentage of total accidents per month to identify seasonal trends and potential outliers.
