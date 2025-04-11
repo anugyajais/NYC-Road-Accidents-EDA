@@ -28,3 +28,5 @@ plt.ylabel("Street Name")
 plt.tight_layout()
 plt.savefig("accident_hotspots.png")
 plt.show()
+
+
