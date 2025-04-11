@@ -29,11 +29,11 @@ https://maven-datasets.s3.amazonaws.com/NYC+Traffic+Accidents/NYC_Collisions.zip
 7. **Injury Severity Profiling:**  
    Evaluate the distribution of injuries and fatalities among pedestrians, cyclists, and motorists to assess public safety risks.
 
-8. **Vehicle Type Impact Analysis:**  
+<!-- 8. **Vehicle Type Impact Analysis:**  
    Investigate correlations between vehicle types involved and the severity of outcomes, identifying potential risk patterns.
 
 9. **Temporal-Spatial Correlation Exploration:**  
-   Examine how temporal factors (month, day, hour) correlate with accident occurrences by borough and street name to develop targeted safety strategies.
+   Examine how temporal factors (month, day, hour) correlate with accident occurrences by borough and street name to develop targeted safety strategies. -->
 
 10. **Data Quality and Outlier Management:**  
     Implement robust data cleaning and outlier detection techniques to ensure the reliability of the insights derived.
