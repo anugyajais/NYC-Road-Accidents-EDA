@@ -29,7 +29,6 @@ upper_bound = Q3 + 1.5 * IQR
 # Identify outliers
 outliers = df[(df['Persons Injured'] < lower_bound) | (df['Persons Injured'] > upper_bound)]
 print(f"Number of outliers in 'Persons Injured': {outliers.shape[0]}")
-
 # Remove outliers from the dataset for analysis
 df_clean = df[(df['Persons Injured'] >= lower_bound) & (df['Persons Injured'] <= upper_bound)]
 
